@@ -1,0 +1,14 @@
+{
+  "name": "wubi-code-data",
+  "version": "1.0.0",
+  "description": "五笔码表数据",
+  "main": "入口.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nobodxbodon",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
