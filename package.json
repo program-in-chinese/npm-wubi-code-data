@@ -1,6 +1,6 @@
 {
   "name": "wubi-code-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "五笔码表数据",
   "main": "入口.js",
   "scripts": {
