@@ -1,10 +1,14 @@
 {
   "name": "wubi-code-data",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "五笔码表数据",
   "main": "入口.js",
   "scripts": {
     "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/program-in-chinese/npm-wubi-code-data.git"
   },
   "author": "nobodxbodon",
   "license": "ISC",
